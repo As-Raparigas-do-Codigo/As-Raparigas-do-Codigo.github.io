@@ -1,0 +1,1 @@
+Contains configuration to ensure that [https://as-raparigas-do-codigo.github.io/](https://as-raparigas-do-codigo.github.io/) redirects to [https://raparigasdocodigo.pt/](https://raparigasdocodigo.pt/)
